@@ -73,3 +73,70 @@ No automatic differentiation.
 ---
 
 ## 📂 Project Structure
+---
+
+## 🚀 How To Run
+
+### 1️⃣ Install Python (Termux supported)
+
+### 2️⃣ Install NumPy
+### 3️⃣ Prepare dataset.txt
+
+One sentence per line:
+### 4️⃣ Run the model
+---
+
+## 📊 Current Capabilities
+
+- Next-word prediction
+- Context-aware generation
+- Learns attention patterns
+- Learns word embeddings
+- Temperature-based sampling
+
+---
+
+## ⚠️ Limitations
+
+- Single attention head
+- No positional encoding (yet)
+- Small dataset
+- Small model size
+- Designed for educational and experimental purposes
+
+---
+
+## 🛠 Future Roadmap
+
+- Multi-head Attention
+- Positional Encoding
+- Causal Masking (GPT-style)
+- Model Saving & Loading
+- Larger Dataset Training
+- Optimization Improvements
+
+---
+
+## 💡 Philosophy
+
+AI is not magic.
+
+AI is math.
+AI is gradients.
+AI is matrix multiplication.
+
+Mukeem AI exists to show that:
+
+Even on a mobile device,
+with enough understanding,
+a real Transformer can be built from scratch.
+
+---
+
+## 👑 Built By
+
+Mukeem  
+
+On mobile.  
+From scratch.  
+With math.
