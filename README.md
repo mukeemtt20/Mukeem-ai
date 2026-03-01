@@ -49,3 +49,27 @@ This model:
 ---
 
 ## 🏗 Architecture Overview
+Single-head  
+Single-layer  
+End-to-end differentiable  
+
+---
+
+## 🧮 Mathematical Implementation
+
+The model includes:
+
+- Scaled Dot-Product Attention  
+- Jacobian-based Softmax Backward Pass  
+- Matrix Chain-Rule Backpropagation  
+- Attention Weight Gradient Updates  
+- Embedding Gradient Updates  
+- Gradient Clipping for Stability  
+
+Everything is implemented manually.
+
+No automatic differentiation.
+
+---
+
+## 📂 Project Structure
